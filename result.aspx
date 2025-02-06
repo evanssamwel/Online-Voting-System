@@ -15,7 +15,7 @@
     <!--Nav bar-->
         <nav class="teal" role="navigation">
             <div class="nav-wrapper container">
-                <a id="logo-container" href="Default.aspx" class="brand-logo">MATDAAN</a>
+                <a id="logo-container" href="Default.aspx" class="brand-logo">Voting</a>
                 <ul class="right hide-on-med-and-down">
                     <li><a href="Elections.aspx">ELECTIONS</a></li>
                     <li><a href="Register.aspx">REGISTER</a></li>
